@@ -34,5 +34,7 @@ public class Main {
                 System.out.println("A no es multiplo de B\nB no es multiplo de A.");
             }
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
